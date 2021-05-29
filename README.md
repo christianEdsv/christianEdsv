@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christianEdsv
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin & Javasript
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 Contact https://twitter.com/christianEdSV
 
